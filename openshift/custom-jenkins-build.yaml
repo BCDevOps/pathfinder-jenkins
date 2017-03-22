@@ -31,7 +31,7 @@ objects:
   metadata:
     labels:
       app: jenkins
-    name: jenkins
+    name: custom-jenkins
 - apiVersion: v1
   kind: BuildConfig
   metadata:
